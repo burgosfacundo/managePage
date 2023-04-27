@@ -4,4 +4,4 @@ This is a project that I carried out within the framework of the Certified Tech 
 For this project, I replicated a web page using HTML and CSS.
 
 **DEPLOY**
-- [https://burgosfacundo.github.io/managePage](https://burgosfacundo.github.io/managePage)
+- [Manage Page](https://burgosfacundo.github.io/managePage)
